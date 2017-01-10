@@ -884,6 +884,7 @@ a.slideshow-fullwidth-read-more:hover:before{
 /* about-us page **************************************************/
 .breadcrumbs02{
 	background: url(../images/breadcrumbs/about-us.jpg) no-repeat; 
+  background-position: center center;
 }
 
 /* contact-us page **************************************************/

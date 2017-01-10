@@ -879,6 +879,7 @@ a.slideshow-fullwidth-read-more:hover:before{
 /* service page **************************************************/
 .breadcrumbs01{
 	background: url(../images/breadcrumbs/01.jpg) no-repeat; 
+  background-position: center center;
 }
 
 /* about-us page **************************************************/
@@ -890,16 +891,19 @@ a.slideshow-fullwidth-read-more:hover:before{
 /* contact-us page **************************************************/
 .breadcrumbs03{
 	background: url(../images/breadcrumbs/contact.jpg) no-repeat; 
+  background-position: center center;
 }
 
 /* portfolio page **************************************************/
 .breadcrumbs04{
 	background: url(../images/breadcrumbs/02.jpg) no-repeat; 
+  background-position: center center;
 }
 
 /* blog page **************************************************/
 .breadcrumbs05{
 	background: url(../images/breadcrumbs/03.jpg) no-repeat; 
+  background-position: center center;
 }
 
 /* blog-details page **************************************************/

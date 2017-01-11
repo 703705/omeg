@@ -1322,8 +1322,8 @@ ul.portfolio-filter a{
       =feedback
 ========================================================================== */
 #feedback{
-	padding-top: 120px;
-	padding-bottom: 100px;
+	padding-top: 60px;
+	padding-bottom: 25px;
 }
 #feedback .projects-info{
 	padding-right: 100px;
@@ -1529,7 +1529,7 @@ ul.portfolio-filter a{
       =latest-article
 ========================================================================== */
 #latest-article{
-	padding-top: 80px;
+	padding-top: 10px;
 }
 #latest-article .each-article{
 	padding: 0;
